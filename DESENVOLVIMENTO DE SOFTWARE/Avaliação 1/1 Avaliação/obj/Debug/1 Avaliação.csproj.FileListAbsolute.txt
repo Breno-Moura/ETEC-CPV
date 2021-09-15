@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2013\Projects\1 Avaliação\1 Avaliação\bin\Debug\1 Avaliação.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\1 Avaliação\1 Avaliação\bin\Debug\1 Avaliação.exe
+c:\users\aluno\documents\visual studio 2013\Projects\1 Avaliação\1 Avaliação\bin\Debug\1 Avaliação.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\1 Avaliação\1 Avaliação\obj\Debug\1 Avaliação.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\1 Avaliação\1 Avaliação\obj\Debug\1 Avaliação.exe
+c:\users\aluno\documents\visual studio 2013\Projects\1 Avaliação\1 Avaliação\obj\Debug\1 Avaliação.pdb

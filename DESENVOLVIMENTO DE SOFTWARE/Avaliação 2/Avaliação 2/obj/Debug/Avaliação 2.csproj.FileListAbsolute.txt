@@ -1,0 +1,6 @@
+H:\Security\Curso Info ETEC noite\DS\Avaliação 2\Avaliação 2\bin\Debug\Avaliação 2.exe.config
+H:\Security\Curso Info ETEC noite\DS\Avaliação 2\Avaliação 2\bin\Debug\Avaliação 2.exe
+H:\Security\Curso Info ETEC noite\DS\Avaliação 2\Avaliação 2\bin\Debug\Avaliação 2.pdb
+H:\Security\Curso Info ETEC noite\DS\Avaliação 2\Avaliação 2\obj\Debug\Avaliação 2.csprojResolveAssemblyReference.cache
+H:\Security\Curso Info ETEC noite\DS\Avaliação 2\Avaliação 2\obj\Debug\Avaliação 2.exe
+H:\Security\Curso Info ETEC noite\DS\Avaliação 2\Avaliação 2\obj\Debug\Avaliação 2.pdb
