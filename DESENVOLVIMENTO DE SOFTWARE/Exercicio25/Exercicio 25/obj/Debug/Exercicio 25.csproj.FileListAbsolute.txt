@@ -1,0 +1,9 @@
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\bin\Debug\Exercicio 25.exe.config
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\bin\Debug\Exercicio 25.exe
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\bin\Debug\Exercicio 25.pdb
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\obj\Debug\Exercicio_25.Form1.resources
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\obj\Debug\Exercicio_25.Properties.Resources.resources
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\obj\Debug\Exercicio 25.csproj.GenerateResource.Cache
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\obj\Debug\Exercicio 25.exe
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\obj\Debug\Exercicio 25.pdb
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 25\Exercicio 25\obj\Debug\Exercicio 25.csprojResolveAssemblyReference.cache

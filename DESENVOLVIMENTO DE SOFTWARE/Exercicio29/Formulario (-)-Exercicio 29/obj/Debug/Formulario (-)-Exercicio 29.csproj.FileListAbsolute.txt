@@ -1,0 +1,9 @@
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\bin\Debug\Formulario (-)-Exercicio 29.exe.config
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\bin\Debug\Formulario (-)-Exercicio 29.exe
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\bin\Debug\Formulario (-)-Exercicio 29.pdb
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\obj\Debug\Formulario (-)-Exercicio 29.csprojResolveAssemblyReference.cache
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\obj\Debug\Formulario_____Exercicio_29.Form1.resources
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\obj\Debug\Formulario_____Exercicio_29.Properties.Resources.resources
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\obj\Debug\Formulario (-)-Exercicio 29.csproj.GenerateResource.Cache
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\obj\Debug\Formulario (-)-Exercicio 29.exe
+H:\Álife\Informatica-ETEC\2ºMódulo\DS-Ligia\Exercicios graficos\Formulario (-)-Exercicio 29\Formulario (-)-Exercicio 29\obj\Debug\Formulario (-)-Exercicio 29.pdb
