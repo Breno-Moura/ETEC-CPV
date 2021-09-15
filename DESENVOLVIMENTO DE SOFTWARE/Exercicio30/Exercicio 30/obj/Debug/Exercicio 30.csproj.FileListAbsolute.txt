@@ -1,0 +1,9 @@
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\bin\Debug\Exercicio 30.exe.config
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\obj\Debug\Exercicio 30.csprojResolveAssemblyReference.cache
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\obj\Debug\Exercicio_30.Form1.resources
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\obj\Debug\Exercicio_30.Properties.Resources.resources
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\obj\Debug\Exercicio 30.csproj.GenerateResource.Cache
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\bin\Debug\Exercicio 30.exe
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\bin\Debug\Exercicio 30.pdb
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\obj\Debug\Exercicio 30.exe
+H:\Etec\2º semestre\D.S\Projetos C# Forms\Exercicio 30\Exercicio 30\obj\Debug\Exercicio 30.pdb
