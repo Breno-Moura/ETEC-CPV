@@ -1,0 +1,18 @@
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Form1.resources
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Properties.Resources.resources
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.GenerateResource.Cache
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+I:\GUXTAVO'S\ETEC\2ºModulo\DS1\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Form1.resources
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.Properties.Resources.resources
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.GenerateResource.Cache
