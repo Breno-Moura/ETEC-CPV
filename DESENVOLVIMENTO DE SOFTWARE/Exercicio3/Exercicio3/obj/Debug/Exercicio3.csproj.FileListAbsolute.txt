@@ -1,0 +1,9 @@
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csprojResolveAssemblyReference.cache
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\obj\Debug\Exercicio3.Form1.resources
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\obj\Debug\Exercicio3.Properties.Resources.resources
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.GenerateResource.Cache
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+H:\Security\Curso Info ETEC noite\DS\Windows Forms\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb
